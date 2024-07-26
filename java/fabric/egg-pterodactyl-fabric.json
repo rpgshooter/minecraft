@@ -18,6 +18,7 @@
         "Java 16": "ghcr.io/pterodactyl/yolks:java_16",
         "Java 17": "ghcr.io/pterodactyl/yolks:java_17",
         "Java 18": "ghcr.io/pterodactyl/yolks:java_18",
+        "Java 20": "ghcr.io/pterodactyl/yolks:java_20",
         "Java 8": "ghcr.io/pterodactyl/yolks:java_8"
     },
     "file_denylist": [],
